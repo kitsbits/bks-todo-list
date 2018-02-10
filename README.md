@@ -10,5 +10,5 @@ If you make any changes...
 
 `npm run build`
 
-# Check out my real work, if you wish
+### Check out my real work, if you wish
 http://kitmas.com/
