@@ -3,7 +3,12 @@ There's not really a good explanation for this. Live @ http://inconclusive-agree
 
 ## Getting started
 `npm install`
+
 `npm start`
 
 If you make any changes...
+
 `npm run build`
+
+# Check out my real work, if you wish
+http://kitmas.com/
