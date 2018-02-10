@@ -1,0 +1,14 @@
+* {
+    font-family: 'Barlow Condensed', sans-serif;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+  background-color: #f7f7f7;
+}
+
+.remove-boy-king:hover {
+    color: red ;
+}
